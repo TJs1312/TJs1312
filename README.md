@@ -7,15 +7,21 @@ I'm currently studying Cybersecurity and Data Engineering, with a strong interes
 💻 Tech Stack
 
 Programming: Python, Bash, SQL.
+
 Cybersecurity: Network security, SIEM tools, threat hunting.
+
 Data Engineering: ETL, SQL, data pipelines.
+
 DevOps & Cloud: Docker, Linux, AWS basics.
+
 Automation & Monitoring: Control-M, JCL, shell scripting.
 
 🌱 Currently Learning
 
 Advanced Cloud Security principles.
+
 Building scalable ETL pipelines.
+
 Improving Red Team / Blue Team skills.
 
 📫 How to Reach Me

@@ -21,6 +21,6 @@ Improving Red Team / Blue Team skills
 📫 How to Reach Me
 
 LinkedIn: www.linkedin.com/in/teho-roquejoffre
-GitHub: You're already here! 😄
+ GitHub: You're already here! 😄
 
 ⚡I love cybersecurity CTFs and exploring open-source security tools!

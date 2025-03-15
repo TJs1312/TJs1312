@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Teho 👋
 
-<!--
-**TJs1312/TJs1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm currently studying Cybersecurity and Data Engineering, with a strong interest in automation, cloud security, and data-driven solutions. I enjoy solving problems, optimizing workflows, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+Programming: Python, Bash, SQL
+Cybersecurity: Network security, SIEM tools, threat hunting
+Data Engineering: ETL, SQL, data pipelines
+DevOps & Cloud: Docker, Linux, AWS basics
+Automation & Monitoring: Control-M, JCL, shell scripting
+
+🌱 Currently Learning
+
+Advanced Cloud Security principles
+Building scalable ETL pipelines
+Improving Red Team / Blue Team skills
+
+📫 How to Reach Me
+
+LinkedIn: www.linkedin.com/in/teho-roquejoffre
+GitHub: You're already here! 😄
+
+⚡I love cybersecurity CTFs and exploring open-source security tools!
